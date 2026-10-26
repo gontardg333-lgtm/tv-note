@@ -1,0 +1,8 @@
+{
+  "name": "Mot pour la TV",
+  "short_name": "Mot TV",
+  "display": "standalone",
+  "background_color": "#140f2b",
+  "theme_color": "#140f2b",
+  "icons": [{ "src": "icon.png", "sizes": "512x512", "type": "image/png" }]
+}
